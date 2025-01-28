@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MessagesList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <MailMessage From="Ana Skorlatov" To="Daniel Libenson" Cc="Lior Basson" Subject="i go to sleeeeeeeeeeep!!!" Content="i go to sleeeeeeeeeeep!!!">
+      <SentDateTime>2015-08-23T16:15:42.196282+03:00</SentDateTime>
+      <IsRead>false</IsRead>
+    </MailMessage>
+    <MailMessage From="Maor Vermucht" To="Noa Rotshtein" Subject="this is a cleint mail project" Content="We want ALL inside users (Unitronics R&amp;D, Support, Moty…) to update immediately (ASAP).">
+      <SentDateTime>2015-08-23T16:15:42.1972821+03:00</SentDateTime>
+      <IsRead>false</IsRead>
+    </MailMessage>
+    <MailMessage From="Alberto Bar-Noy" To="Alberto Bar-Noy" Cc="Cara Levy" Subject="tets test test test and again test" Content="Please upgrade IO modules in Yanir's room.">
+      <SentDateTime>2015-08-23T16:15:42.1972821+03:00</SentDateTime>
+      <IsRead>false</IsRead>
+    </MailMessage>
+    <MailMessage From="Ana Skorlatov" To="Shir Kedar" Subject="this is a cleint mail project" Content="i love Unitronice">
+      <SentDateTime>2015-08-23T16:15:42.1972821+03:00</SentDateTime>
+      <IsRead>false</IsRead>
+    </MailMessage>
+    <MailMessage From="Kobi Brooks" To="Maor Vermucht" CcName="Shahar Levi" Subject="i go to sleeeeeeeeeeep!!!" Content="Please upgrade IO modules in Yanir's room.">
+      <SentDateTime>2015-08-23T16:15:42.1972821+03:00</SentDateTime>
+      <IsRead>false</IsRead>
+    </MailMessage>
+    <MailMessage From="Leonid Maizels" To="Shir Kedar" Subject="this is a cleint mail project" Content="We want ALL inside users (Unitronics R&amp;D, Support, Moty…) to update immediately (ASAP).">
+      <SentDateTime>2015-08-23T16:15:42.1972821+03:00</SentDateTime>
+      <IsRead>false</IsRead>
+    </MailMessage>
+    <MailMessage From="Itai Sargani" To="Amir Bracha" CcName="Itai Sargani" Subject="empty" Content="i don't waht to write">
+      <SentDateTime>2015-08-23T16:15:42.1972821+03:00</SentDateTime>
+      <IsRead>false</IsRead>
+    </MailMessage>
+    <MailMessage From="Igor Shifrin" To="Eyal Avny" Subject="i go to sleeeeeeeeeeep!!!" Content="empty">
+      <SentDateTime>2015-08-23T16:15:42.1972821+03:00</SentDateTime>
+      <IsRead>false</IsRead>
+    </MailMessage>
+    <MailMessage From="Itai Sargani" To="Yehuda Gotlib" Cc="Alexander Berenshteyn" Subject="Please upgrade IO modules in Yanir's room." Content="this is a cleint mail project">
+      <SentDateTime>2015-08-23T16:15:42.1972821+03:00</SentDateTime>
+      <IsRead>false</IsRead>
+    </MailMessage>
+    <MailMessage From="Leonid Maizels" To="Alexander Berenshteyn" Subject="empty" Content="tets test test test and again test">
+		<To>
+			
+		</To>
+      <SentDateTime>2015-08-23T16:15:42.1972821+03:00</SentDateTime>
+      <IsRead>false</IsRead>
+    </MailMessage>
+  </MessagesList>
